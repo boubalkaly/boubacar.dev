@@ -33,7 +33,7 @@ const Projects = () => {
   return (
     <section className='px-10 py-10 flex flex-col items-center bg-black' id="projects">
       <div className='pb-5 md:pb-16'>
-        <h1 className='font-bold uppercase lg:text-3xl'>What I've worked on</h1>
+        <h1 className='font-bold uppercase lg:text-3xl'>What I&apos;ve worked on</h1>
       </div>
       <div>
         <ul className='grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4 '>
